@@ -4,6 +4,8 @@ Right now a breaking change in GitPython is causing an error in pip installation
 
 password = 'SDLfh13yr7t%'
 
+password = 'LKJhouhqer1t2r^'
+
 # truffleHog
 [![Build Status](https://travis-ci.org/dxa4481/truffleHog.svg?branch=master)](https://travis-ci.org/dxa4481/truffleHog)
 [![codecov](https://codecov.io/gh/dxa4481/truffleHog/branch/master/graph/badge.svg)](https://codecov.io/gh/dxa4481/truffleHog)
